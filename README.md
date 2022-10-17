@@ -1,16 +1,17 @@
-### Hi there 👋
+# about me
 
-<!--
-**notunixian/notunixian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Unixian.\
+15 yr old intermediate C# developer
 
-Here are some ideas to get you started:
+trying to learn:\
+c++, simple re, and more C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## stats
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=notunixian)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=notunixian&layout=compact)
+
+## contacts
+discord: Unixian#4669\
+email: unixian@riseup.net - unixian@wednesday.wtf\
+telegram: https://t.me/crossfields
+

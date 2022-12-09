@@ -13,5 +13,5 @@ c++, simple re, and more C#
 ## contacts
 discord: Unixian#4669\
 email: unixian@riseup.net - unixian@wednesday.wtf\
-telegram: https://t.me/crossfields
+telegram: https://t.me/unixian
 

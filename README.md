@@ -8,8 +8,8 @@ c++, simple re, and more C#
 
 ## stats
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=notunixian)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=notunixian&layout=compact)
-ps. the language card does not properly represent what i know.
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=notunixian&layout=compact)\
+p.s: the language card does not properly represent what i know.
 
 ## contacts
 discord: Unixian#4669\

@@ -1,7 +1,7 @@
 # about me
 
 Hi, I'm Unixian.\
-15 yr old intermediate C# developer
+16 yr old intermediate C# developer
 
 trying to learn:\
 c++, simple re, and more C#

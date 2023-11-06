@@ -15,7 +15,7 @@ nothing special/important, you are able to view my previous repositories to see 
 p.s: the language card does not properly represent what i know.
 
 ## contacts
-discord: Unixian#4669\
+discord: unixian
 email: unixian@riseup.net - unixian@wednesday.wtf\
-telegram: https://t.me/unixian
+telegram: https://t.me/hell0worId
 

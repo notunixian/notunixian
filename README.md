@@ -3,9 +3,6 @@
 Hi, I'm Unixian.\
 16 yr old intermediate C#/C/C++ developer
 
-trying to learn:\
-more c++, reverse engineering protected apps (vmprotect, themida, etc)
-
 currently i'm working on:\
 nothing special/important, you are able to view my previous repositories to see what i've done.
 

@@ -1,7 +1,7 @@
 # about me
 
 Hi, I'm Unixian.\
-16 yr old intermediate C#/C/C++ developer
+17 yr old intermediate C#/C/C++ developer
 
 currently i'm working on:\
 nothing special/important, you are able to view my previous repositories to see what i've done.

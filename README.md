@@ -6,6 +6,8 @@ Hi, I'm Unixian.\
 currently i'm working on:\
 nothing special/important, you are able to view my previous repositories to see what i've done.
 
+blog: https://payload.cat/
+
 ## contacts
 discord: unixian\
 email: unixian@riseup.net - unixian@wednesday.wtf\

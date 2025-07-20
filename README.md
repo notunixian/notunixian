@@ -10,6 +10,6 @@ blog: https://payload.cat/
 
 ## contacts
 discord: unixian\
-email: unixian@riseup.net
+email: unixian@riseup.net\
 telegram: https://t.me/hell0worId
 

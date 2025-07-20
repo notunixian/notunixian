@@ -9,7 +9,6 @@ nothing special/important, you are able to view my previous repositories to see 
 blog: https://payload.cat/
 
 ## contacts
-discord: unixian\
 email: unixian@riseup.net\
 telegram: https://t.me/hell0worId
 

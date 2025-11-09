@@ -1,7 +1,7 @@
 # about me
 
 Hi, I'm Unixian.\
-17 yr old C#/C/C++ developer and hobbyist reverse engineer
+18 yr old C#/C/C++ developer and hobbyist reverse engineer
 
 currently i'm working on:\
 mostly private projects with friends

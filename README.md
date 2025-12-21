@@ -12,5 +12,5 @@ a lot of my old repositories have been deleted, sorry if you can't find them any
 
 ## contacts
 email: unixian@riseup.net\
-telegram: https://t.me/hell0worId
+telegram: https://t.me/crossfields
 
